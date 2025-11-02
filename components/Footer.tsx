@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
         <div className="container">
             <div className="footer-content">
                 <div className="footer-logo">
-                    <img src="9709798.png" alt="HSG Logo" className="footer-logo-img" />
+                    <img src="./9709798.png" alt="HSG Logo" className="footer-logo-img" />
                     <p>حلول تقنية متكاملة</p>
                 </div>
                 <div className="footer-links">

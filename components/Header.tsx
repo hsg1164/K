@@ -40,7 +40,7 @@ const Header: React.FC = () => {
         <div className="container">
           <div className="logo">
             <a href="#home">
-              <img src="9709798.png" alt="HSG Logo" className="logo-img" />
+              <img src="./9709798.png" alt="HSG Logo" className="logo-img" />
             </a>
           </div>
           <nav className={isMenuOpen ? 'active' : ''}>

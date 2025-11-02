@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
             </div>
             <div className="hero-image animate-fade-in">
                 <div className="hero-logo">
-                    <img src="880o868973.png" alt="HSG Logo" className="hero-logo-img" />
+                    <img src="./880o868973.png" alt="HSG Logo" className="hero-logo-img" />
                 </div>
             </div>
         </div>
